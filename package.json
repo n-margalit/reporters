@@ -1,0 +1,11 @@
+{
+    "name": "@n_margolis/reporters",
+    "version": "0.0.2",
+    "description": "test test test",
+    "license": "MIT",
+    "repository": "n-margalit/reporters",
+    "main": "index.js",
+    "keywords": [
+        "test"
+    ]
+}
